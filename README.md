@@ -1,10 +1,21 @@
 ### Hey guys ✌🏻 
-My name is Tobias,
-I'm a health scientist with a love for everything that has to do with data - data analysis, data visualization, data storytelling, you name it.
-Always excited to learn new things in this area I'm currently enrolled in a Data Analytics Bootcamp at neuefische GmbH.
+My name is Tobias,<br>
+I'm a Health Scientist turned Data Analyst. I love everything that has to do with data - data analysis, data visualization, data storytelling, you name it.<br>
+Having prior experience with R and SQL I wanted to expand my knowledge and decided to enroll in a Data Analytics Bootcamp at neuefische GmbH.<br>
+I'm always excited to learn new things and improve my skills!
 
-### Toolbox
-
+### Data Analytics Toolbox
+- Python :snake: <br>
+  - Numpy<br>
+  - Pandas<br>
+  - Matplotlib<br>
+  - Seaborn<br>
+  - Scikit-learn<br>
+  - Statsmodels.api<br>
+  - SQLAlchemy<br>
+- PostgreSQL :inbox_tray: :outbox_tray: <br>
+- Tableau 📈 <br>
+- R
 
 <!--
 **TobiasWeis92/TobiasWeis92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
