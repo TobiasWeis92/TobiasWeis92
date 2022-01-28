@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey guys ✌🏻 
+My name is Tobias,
+I'm a health scientist with a love for everything that has to do with data - data analysis, data visualization, data storytelling, you name it.
+Always excited to learn new things in this area I'm currently enrolled in a Data Analytics Bootcamp at neuefische GmbH.
+
+### Toolbox
+
 
 <!--
 **TobiasWeis92/TobiasWeis92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
