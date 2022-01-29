@@ -7,21 +7,20 @@ I'm always excited to learn new things and improve my skills!
 ---
 
 ### Data Analytics Toolbox
-<img src="./data/python.png" alt="drawing" width="100"/>
-<img src="./data/postgre_sql.svn.png" alt="drawing" width="100"/>
-- Python :snake: <br>
-  - Numpy<br>
-  - Pandas<br>
-  - Matplotlib<br>
-  - Seaborn<br>
-  - Scikit-learn<br>
-  - Statsmodels.api<br>
-  - SQLAlchemy<br>
-- PostgreSQL :inbox_tray: :outbox_tray: <br>
-- Tableau 📈 <br>
+<img src="./data/python.png" alt="drawing" width="75"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./data/postgre_sql.svg.png" alt="drawing" width="70"/> <img src="./data/tableau.png" alt="drawing" width="130"/>
+- Python :snake: 
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - Scikit-learn
+  - Statsmodels.api
+  - SQLAlchemy
+- PostgreSQL :inbox_tray: :outbox_tray: 
+- Tableau 📈 
 - Java :coffee:
-- R
-
+- R<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./data/rstudio.png" alt="drawing" width="70"/> &nbsp;&nbsp; <img src="./data/java_logo.png" alt="drawing" width="86"/>
 ---
 
 ### Portfolio
