@@ -1,7 +1,7 @@
 ### Hello everyone ✌🏻 
 My name is Tobias,<br>
 I'm a Health Scientist turned Data Analyst. I love everything that has to do with data - data analysis, data visualization, data storytelling, you name it.<br>
-Having prior experience with R and SQL I wanted to expand my knowledge and decided to enroll in a Data Analytics Bootcamp at neuefische GmbH.<br>
+Having prior experience with R , Java and SQL I wanted to expand my knowledge and decided to enroll in a Data Analytics Bootcamp at neuefische GmbH.<br>
 I'm always excited to learn new things and improve my skills!
 
 ---
@@ -17,6 +17,7 @@ I'm always excited to learn new things and improve my skills!
   - SQLAlchemy<br>
 - PostgreSQL :inbox_tray: :outbox_tray: <br>
 - Tableau 📈 <br>
+- Java :coffee:
 - R
 
 ---
