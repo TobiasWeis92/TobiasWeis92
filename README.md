@@ -4,6 +4,8 @@ I'm a Health Scientist turned Data Analyst. I love everything that has to do wit
 Having prior experience with R and SQL I wanted to expand my knowledge and decided to enroll in a Data Analytics Bootcamp at neuefische GmbH.<br>
 I'm always excited to learn new things and improve my skills!
 
+---
+
 ### Data Analytics Toolbox
 - Python :snake: <br>
   - Numpy<br>
@@ -17,6 +19,12 @@ I'm always excited to learn new things and improve my skills!
 - Tableau 📈 <br>
 - R
 
+---
+
+### Portfolio
+
+You'll find some of my latest projects pinned below :eyes: <br>
+![](./data/data_analytics.gif)
 <!--
 **TobiasWeis92/TobiasWeis92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
