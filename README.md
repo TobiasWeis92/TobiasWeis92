@@ -20,7 +20,7 @@ I'm always excited to learn new things and improve my skills!
 - Tableau 📈 
 - Java :coffee:
 - R<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./data/rstudio.png" alt="drawing" width="70"/> &nbsp;&nbsp; <img src="./data/java_logo.png" alt="drawing" width="86"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./data/rstudio.png" alt="drawing" width="70"/> &nbsp;&nbsp; <img src="./data/java_logo.png" alt="drawing" width="86"/>
 ---
 
 ### Portfolio
