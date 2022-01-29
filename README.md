@@ -7,6 +7,8 @@ I'm always excited to learn new things and improve my skills!
 ---
 
 ### Data Analytics Toolbox
+<img src="./data/python.png" alt="drawing" width="100"/>
+<img src="./data/postgre_sql.svn.png" alt="drawing" width="100"/>
 - Python :snake: <br>
   - Numpy<br>
   - Pandas<br>
